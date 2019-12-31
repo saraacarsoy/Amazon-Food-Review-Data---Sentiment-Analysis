@@ -2,8 +2,8 @@
 
 The data used in this project is taken from https://www.kaggle.com/snap/amazon-fine-food-reviews and consists reviews of food from Amazon. 
 The data has a 'Score' column, starting from 1 to 5 and 5 being the very positive review.
-When we looked at the data we noticed that positive reviews tend to have more '!' (exclamation points) in them.
-Our hypothesis is that if a review has more '!' in it, it has a higher rating. Our prediction will be based on this.
+When I looked at the data I noticed that positive reviews tend to have more '!' (exclamation points) in them.
+The hypothesis is that if a review has more '!' in it, it has a higher rating. The predictions will be based on this.
 
 The initial hypothesis testing shows that:
 
